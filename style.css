@@ -178,11 +178,8 @@ ul {
   max-width: 1170px;
 }
 
-/*
-=============== 
-Navbar
-===============
-*/
+/* Navbar */
+
 nav {
   background: var(--white);
   box-shadow: var(--shadow-2);
@@ -221,11 +218,8 @@ nav {
   padding: 1rem;
 }
 
-/*
-=============== 
-Hero
-===============
-*/
+/* Hero */
+
 .hero {
   min-height: 100vh;
   min-height: calc(100vh - 62px);
@@ -266,11 +260,8 @@ Hero
   }
 }
 
-/*
-=============== 
-About
-===============
-*/
+/* About */
+
 .about {
   background: var(--white);
 }
@@ -319,11 +310,8 @@ About
   }
 }
 
-/*
-=============== 
-Services
-===============
-*/
+/* Services */
+
 .service {
   text-align: center;
   margin-bottom: 3rem;
@@ -379,11 +367,8 @@ Services
   }
 }
 
-/*
-=============== 
-Featured
-===============
-*/
+/* Featured */
+
 .featured-tours {
   background: var(--white);
 }
@@ -454,11 +439,8 @@ Featured
   }
 }
 
-/*
-=============== 
-Gallery
-===============
-*/
+/* Gallery */
+
 .gallery {
   padding-top: 2rem;
   background: var(--darkGrey);
@@ -505,11 +487,8 @@ Gallery
   }
 }
 
-/*
-=============== 
-News letter
-===============
-*/
+/* News letter */
+
 .deals {
   display: flex;
   justify-content: space-around;
@@ -551,11 +530,8 @@ News letter
   background: var(--primary-500);
 }
 
-/*
-=============== 
-Footer
-===============
-*/
+/* Footer */
+
 .footer {
   background: var(--black);
   color: var(--white);
